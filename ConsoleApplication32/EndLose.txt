@@ -1,0 +1,2 @@
+You have been killed by the monster. 
+--------YOU LOSE!--------

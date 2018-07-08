@@ -1,0 +1,20 @@
+Room 1
+Decription: You are currently in the first room of the castle. There is a door to your east. There is a door to your south. 
+Room 2
+Decription: This room has weird shapes drawn all over the walls and flickering torches make the faces even scarier. There is a door to your east. There is a door to your west. There is a door to you south.
+Room 3
+Decription: This room is on the corner of the castle. There is a door to your west.
+Room 4
+Decription: This room is close to the room where Medusa is waiting for you to  kill you. There is a door to your north.
+Room 5
+Decription: This room has weird shapes drawn all over the walls and flickering torches make the faces even scarier. There is a door to your east. There is a door to your west.
+Room 6
+Decription: This room has weird shapes drawn all over the walls. There is a door to your west. There is a locked door to the south.
+Room 7
+Decription: This corner room is where you will find yur ultimate weapon. There is a door to your east. The Dagger is lying on the floor. Use it to kill Dracula.
+Room 8
+Decription: This room is labortory. There is a door to your west. There is a door to your north. The P=NP soultion is lying on the floor.
+Room 9
+Decription: This room is the scariest of all. Rescue your princess and get her out of the castle.
+
+
